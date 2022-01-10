@@ -1,0 +1,15 @@
+.buttons {
+    height: 100px;
+    width: 100px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    
+
+}
+
+.buttondiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
